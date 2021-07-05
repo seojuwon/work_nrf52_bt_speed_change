@@ -1,0 +1,60 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;Application"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;Board Definition"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;None"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;nRF_Drivers"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;nRF_Libraries"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;nRF_NFC"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="43" y="123" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="112" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="69" useTextEdit="1" openedFrom="C:/work/project/nordic/nRF5SDK160098a08e2/examples/nfc/writable_ndef_msg/main.c" useBinaryEdit="0" left="0" path="../../../ndef_file_m.c" selected="0" top="201" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" openedFrom="C:/work/project/nordic/nRF5SDK160098a08e2/examples/nfc/writable_ndef_msg/main.c" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="190" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_nfct.c" selected="0" top="168" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/nfc/ndef/generic/message/nfc_ndef_msg.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/nfc/ndef/generic/record/nfc_ndef_record.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/nfc/platform/nfc_platform.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/nfc/ndef/uri/nfc_uri_msg.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="178" useTextEdit="1" openedFrom="C:/work/project/nordic/nRF5SDK160098a08e2/examples/nfc/writable_ndef_msg/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/scheduler/app_scheduler.c" selected="1" top="152" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="274" useTextEdit="1" openedFrom="C:/work/project/nordic/nRF5SDK160098a08e2/examples/nfc/writable_ndef_msg/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.h" selected="0" top="259" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="43" useTextEdit="1" openedFrom="C:/work/project/nordic/nRF5SDK160098a08e2/examples/nfc/writable_ndef_msg/ndef_file_m.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/fds/fds.c" selected="0" top="31" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/drivers_nrf/nrf_soc_nosd/nrf_nvic.c" selected="0" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="nfc_writable_ndef_msg_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
